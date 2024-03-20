@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yasha-two0seven.visitor-badge" />
 
 <h1 align="center">
-    <img src="https://readme.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Yashanjali+Chavan!;" />
+    <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=700&size=24&duration=5015&pause=1020&random=false&width=436&lines=Hi+There!+I'm+Yashanjali+Chavan!;" />
 </h1>
 
 <h3 align="center">A passionate and results-oriented data enthusiast</h3>
