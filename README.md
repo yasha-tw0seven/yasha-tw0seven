@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate and results-oriented data enthusiast</h3>
 
-<br/>
+
 
 <div align="center">
  
@@ -25,12 +25,12 @@
  <hr/>
  
 <h2 align="center"> Languages and Tools </h2>
-<br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,vscode,github,docker,git,r,aws,linux,matlab,pytorch,tensorflow,c,cpp,azure" />
     <img src="https://skillicons.dev/icons?i=mongodb,c,java,mysql,cassandra,redis,elasticsearch,postgres" /><br>
 </div>
 
-<br/>
+
 
 
