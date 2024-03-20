@@ -11,7 +11,6 @@
  
  
 
- </div>
  
 <div align="center"> 
   <a href="http://www.linkedin.com/in/yashanjalichavan" target="_blank">
@@ -21,7 +20,7 @@
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank" />
   </a>
   
-</div>
+
 
  <hr/>
  
