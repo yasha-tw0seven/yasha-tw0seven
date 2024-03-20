@@ -1,8 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yasha-two0seven.visitor-badge" />
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=yasha-two0seven.visitor-badge" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=700&size=24&duration=5015&pause=1020&random=false&width=436&lines=Hi+There!+I'm+Yashanjali+Chavan!;" />
-</h1>
+<h1 align="center">Hi There! I'm Yashanjali Chavan!"</h1>
 
 <h3 align="center">A passionate and results-oriented data enthusiast</h3>
 
@@ -26,7 +26,7 @@
 
  <hr/>
  
-<h2 align="center"> Languages-Frameworks-Tools </h2>
+<h2 align="center"> Languages and Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,vscode,github,docker,git,r,aws,linux,matlab,pytorch,tensorflow,c,cpp,azure" />
