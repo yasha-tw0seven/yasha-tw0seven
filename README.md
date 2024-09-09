@@ -1,7 +1,7 @@
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=yasha-two0seven.visitor-badge" />
 
-<h1 align="center">Hi There! I'm Yashanjali Chavan!</h1>
+<h1 align="center">Hi There! I'm Yashanjali!</h1>
 
 
 
